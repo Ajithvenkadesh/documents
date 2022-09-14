@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1660146310005
+Build-Jdk-Spec: 17
+Bundle-Description: restImplementation OSGi blueprint bundle project.
+Bundle-ManifestVersion: 2
+Bundle-Name: restImplementation Blueprint Bundle
+Bundle-SymbolicName: HibernateValidator
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin 5.1.4
+Import-Package: javax.validation;version="[2.0,3)",javax.validation.boot
+ strap;version="[2.0,3)",javax.validation.constraints;version="[2.0,3)",
+ javax.validation.executable;version="[2.0,3)",org.hibernate.validator;v
+ ersion="[5.1,6)",org.hibernate.validator.constraints;version="[5.1,6)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-5.1.1.202006162103

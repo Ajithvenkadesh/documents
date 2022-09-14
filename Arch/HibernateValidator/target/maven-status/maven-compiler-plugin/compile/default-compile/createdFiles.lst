@@ -1,0 +1,8 @@
+com\journaldev\validator\hibernate\model\MyBean.class
+com\journaldev\validator\hibernate\model\MyChildBean.class
+com\journaldev\validator\hibernate\model\Employee.class
+com\journaldev\validator\hibernate\model\EmployeeXMLValidation.class
+com\journaldev\validator\hibernate\model\AnotherBean.class
+com\journaldev\validator\hibernate\model\ParamValidationBean.class
+com\journaldev\validator\hibernate\model\EmpIdCheck.class
+com\journaldev\validator\hibernate\main\ValidatorTest.class
